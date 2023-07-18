@@ -1,12 +1,12 @@
 body {
     text-align: center;
-    font-size: 15px;
+    font-size: 30px;
 }
 
 .hand {
-    width: 50px;
+    width: 80px;
 }
 
 #pc {
-    width: 120px;
+    width: 180px;
 }
