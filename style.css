@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    font-size: 30px;
+    font-size: 15px;
 }
 
 .hand {
@@ -8,5 +8,5 @@ body {
 }
 
 #pc {
-    width: 180px;
+    width: 120px;
 }
