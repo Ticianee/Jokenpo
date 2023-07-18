@@ -30,7 +30,7 @@ https://github.com/Ticianee/Jokenpo/assets/76972629/528ba041-693d-4580-822d-9fda
 <br>
 
 ## Project access 📁
-You can access the project files by clicking [here](https://github.com/Ticianee/Jokenpo) or view the project [here](https://ticianee.github.io/ethanol-or-gasoline/).
+You can access the project files by clicking [here](https://github.com/Ticianee/Jokenpo) or view the project [here](https://ticianee.github.io/Jokenpo/).
 
 <br>
 
